@@ -2,7 +2,7 @@
 
 ## Version 0.0.x - Test Song Setup
 - **Tasks:**
-  - Import the "Lil' Buddies" song as a test, accessible via the tutorial on easy.
+  - Import a test song.
   - Change the song name in the data folder.
   - Verify the implementation and functionality of the test song.
 
