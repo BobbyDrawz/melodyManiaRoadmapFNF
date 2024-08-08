@@ -42,27 +42,30 @@
   - Implement additional animations for DD and MM for Week 5.
   - Add special interactions and mechanics for Senpai and Spirit.
 
-## Version 0.7 - Post-Week 6 Fixes
+## Version 0.6.x - Post-Week 6 Fixes
 - **Tasks:**
   - Implement BF holding GF sprites.
   - Update Pico sprites and interactions.
   - Make necessary UI changes and improvements.
   - Fine-tune game mechanics and fix bugs.
 
-## Version 0.8 - Week 7
+## Version 0.7 - Week 7
 - **Tasks:**
   - Create sprites and animations for Tankman, including special interactions.
   - Implement Pico on speakers and additional animations.
   - Add charting and animations for Week 7 songs.
   - Implement special mechanics for Tankman during specific parts of songs.
 
-## Version 0.9 - Weekend 1 + Minigame and Original Songs
+## Version 0.8 - Weekend 1
 - **Tasks:**
   - Create sprites and animations for Darnell and Nene.
   - Implement playable Pico character data script.
   - Fine-tune the 2hot note can mechanic.
   - Add charting and animations for Weekend 1 songs.
   - Integrate Blazin fistfight notes and additional mechanics.
+
+## Version 0.9 - Minigame and Original Songs
+- **Tasks:**
   - Add minigame to unlock original songs.
   - Create and integrate original songs into the game.
 
